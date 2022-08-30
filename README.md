@@ -1,6 +1,6 @@
 # vitejs-vite-htqe4h
 
-### Added the following to boilerplate:
+## Added the following to boilerplate:
 
 - react-router-dom
 - sass
