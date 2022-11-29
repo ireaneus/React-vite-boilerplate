@@ -1,4 +1,4 @@
-# vitejs-vite-htqe4h
+# React-vite-boilerplate
 
 ## Added the following to boilerplate:
 
